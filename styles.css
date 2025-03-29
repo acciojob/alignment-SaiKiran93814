@@ -11,9 +11,9 @@
             margin: auto;
         }
         td, th {
-            border: 1px solid black;
-            padding: 5px;
-        }
+    border: 1px solid black;
+    padding: 1px; /* Fix applied */
+}
         .center {
             text-align: center;
         }
